@@ -9,12 +9,7 @@ local function isSeason()
     return false
 end
 
-CreateThread(function()
-    while true do
-        GlobalState.ghostscareActive = isSeason()
-        Wait(30 * 60000)
-    end
-end)
+GlobalState.ghostscareActive = isSeason()
 
 lib.addCommand('haunt', {
     help = 'Haunt a player',
