@@ -4,6 +4,9 @@ Halloween script for Qbox, QBCore and ESX. Players who are alone outside at nigh
 
 Need help? Join the [Discord](https://discord.gg/T6AXd2eWdH).
 
+
+https://github.com/user-attachments/assets/a3963945-fdef-42ca-88fa-ee7bc9258bb8
+
 ## How it works
 
 Every player has a haunting level. It slowly goes up while you're alone outside at night and drops when you're with others or it's daytime. The higher it gets, the worse it gets: first small things, then ghosts, then ghosts that come after you.
