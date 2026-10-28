@@ -25,7 +25,3 @@ server_scripts {
 dependencies {
     'ox_lib',
 }
-
-escrow_ignore {
-    '**/*',
-}
